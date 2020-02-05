@@ -1,6 +1,6 @@
 //
 //  main.c
-//  Resizable-Array
+//  sequential-linear-list
 //
 //  Created by Swift on 2020/2/5.
 //  Copyright © 2020 Swift. All rights reserved.
